@@ -48,7 +48,7 @@ Beyond code, I'm also sharing my journey on Instagram — because learning is be
 🌐 Connect With Me
 <p>
   <a href="https://www.instagram.com/bhagyashree._.19/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bhagyashree-j-r-4247303a7" target="_blank">
