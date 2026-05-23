@@ -10,10 +10,10 @@
 ---
 🙋‍♀️ **About me ** 
 I'm a passionate Fullstack Developer who loves turning ideas into elegant, functional web experiences. Whether it's crafting pixel-perfect UIs or building robust backends, I'm all in — coffee in hand ☕ and keyboard at the ready.
-Beyond code, I'm also a content creator sharing my journey on Instagram — because learning is better when shared! 📸
+Beyond code, I'm also sharing my journey on Instagram — because learning is better when shared! 📸
 🔭 Currently building full-stack projects and leveling up every day
 🎨 I believe great design and great code go hand in hand
-📸 Content creator on Instagram — follow along @bhagyashree._.19
+📸Instagram — follow along @bhagyashree._.19
 💬 Ask me about React, Node.js, or anything web dev!
 ⚡ Fun fact: I debug with console.log and I'm proud of it 😄
 ---
