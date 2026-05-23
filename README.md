@@ -17,7 +17,9 @@ Beyond code, I'm also sharing my journey on Instagram — because learning is be
 💬 Ask me about React, Node.js, or anything web dev!
 ⚡ Fun fact: I debug with console.log and I'm proud of it 😄
 ---
+
 🛠️ Tech Stack
+
 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
