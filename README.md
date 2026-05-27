@@ -4,7 +4,7 @@
 </p>
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhagyashree+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;Building+things+that+matter+%E2%9C%A8;Code+%7C+Create+%7C+Connect+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bhagyashree+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;Building+things+that+matter+%E2%9C%A8;Code+%7C+Create+%7C+Connect+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 <br/>
 ---
